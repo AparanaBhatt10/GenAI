@@ -1,0 +1,3 @@
+ProjectReport: "MyntraFashionhelpmateProjectReport.pdf"
+CodeBase:Myntra_Fashion_SuggestionHelper.ipynb
+DataSet:processedFashionData.csv
